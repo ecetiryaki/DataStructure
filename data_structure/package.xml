@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+
+<package format="2">
+
+  <name>data_structure</name>
+  <version>0.0.1</version>
+  <description>None</description>
+  <license>Proprietary</license>
+
+  <maintainer email="tiryakiece@hotmail.com">Ece Tiryaki</maintainer>
+
+  <buildtool_depend>catkin</buildtool_depend>
+
+
+</package>
